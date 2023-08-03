@@ -31,15 +31,7 @@ Throughout the project, I will be working in the Azure Portal, setting up the re
 
 As part of the project, I will take screenshots at key milestones to document the progress and provide proof of work. These screenshots will be essential for review and validation. A checklist will be used at the end of each step to ensure all deliverables are collected.
 
-## Github Repository
-
-To manage the project's code and resources effectively, I will create a dedicated Github repository. The repository will house all the code, configurations, and documentation related to the project.
-
 ## Conclusion
 
 This project represents an exciting opportunity to contribute to the City of New York's data-driven decision-making process and enhance transparency for its citizens. I am eager to dive into the challenges and complexities of building this sophisticated Data Analytics platform on Azure Synapse Analytics.
 
-Stay tuned for more updates and progress as I embark on this journey to make the City's financial data more accessible and insightful!
-
----
-**Note:** If you are interested in accessing the detailed project documentation and progress, please visit the Github repository for this project: [Link to Github Repository].
